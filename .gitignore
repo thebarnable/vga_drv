@@ -1,1 +1,4 @@
 .env/
+.Xil/
+.out/
+.tmp/
